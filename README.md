@@ -1,8 +1,8 @@
-<h2>Salv Meu nome é Pedro</h2>
+<h2>Coe!!!!! Meu nome é Pedro</h2>
 
- Analista QA
- Cursando Analise e Desenvolvimento de Sistemas# Estudando C#
- Buscando conhecimento na área de T.I
+ Analista QA \n
+ Cursando Analise e Desenvolvimento de Sistemas# Estudando C# \n
+ Buscando conhecimento na área de T.I \n
 
 <div align="center">
   <a href="https://github.com/felpscybernet">
