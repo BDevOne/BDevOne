@@ -1,9 +1,8 @@
 <h2>Salv Meu nome é Pedro</h2>
 
-# Analista QA
-# Cursando Analise e Desenvolvimento de Sistemas
-# Estudando C#
-# Buscando conhecimento na área de T.I
+ Analista QA
+ Cursando Analise e Desenvolvimento de Sistemas# Estudando C#
+ Buscando conhecimento na área de T.I
 
 <div align="center">
   <a href="https://github.com/felpscybernet">
