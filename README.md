@@ -1,7 +1,7 @@
 <h2>Coe!!!!! Meu nome é Pedro</h2>
 
  Analista QA </br>
- Cursando Analise e Desenvolvimento de Sistemas# Estudando C# </br>
+ Cursando Analise e Desenvolvimento de Sistemas# </br> Estudando C# </br>
  Buscando conhecimento na área de T.I </br>
 
 <div align="center">
