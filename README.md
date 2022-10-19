@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/tio-chico-marreta-900717247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>  
     <div style="display: inline_block"><br>
-       <img align="center" alt="VedBOne" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+       <img align="center" alt="VedBOne" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+       <img align="cneter" alt="VedBOne"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
      </div>
      
