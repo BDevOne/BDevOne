@@ -1,8 +1,8 @@
-<h2>Coe!!!!! Meu nome é Pedro</h2>
+<h2>Oiii!!!!! Meu nome é Pedro Augusto</h2>
 
- Analista QA </br>
- Cursando Analise e Desenvolvimento de Sistemas# </br> Estudando C# </br>
- Buscando conhecimento na área de T.I </br>
+ Atualmente trabalho como Analista QA</br>
+ Estou cursando Analise e Desenvolvimento de Sistemas </br> Estudando C#, HTML, CSS E JAVASCRIPT</br>
+ Buscando conhecimento na área de T.I</br>
 
 <div align="center">
   <a href="https://github.com/BDevOne">
