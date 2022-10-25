@@ -1,7 +1,7 @@
 <h2>Oiii!!!!! Meu nome é Pedro Augusto</h2>
 
  Atualmente trabalho como Analista QA</br>
- Estou cursando Analise e Desenvolvimento de Sistemas </br> Estudando C#, HTML, CSS E JAVASCRIPT</br>
+ Estou cursando Analise e Desenvolvimento de Sistemas </br> Estudando C#, HTML, CSS E JavaScript</br>
  Buscando conhecimento na área de T.I</br>
 
 <div align="center">
