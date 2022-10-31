@@ -1,7 +1,9 @@
 <h2>Oiii!!!!! Meu nome é Pedro Augusto</h2>
 
+ Desenvolvedor Web Júnior</br>
  Atualmente trabalho como Analista QA</br>
- Estou cursando Analise e Desenvolvimento de Sistemas </br> Estudando C#, HTML, CSS E JavaScript</br>
+ Estou cursando Analise e Desenvolvimento de Sistemas</br>
+ Estudando C#, HTML, CSS E JavaScript</br>
  Buscando conhecimento na área de T.I</br>
 
 <div align="center">
@@ -12,7 +14,7 @@
   <div>
   <a href="https://www.instagram.com/p.augusto_123_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/YFCgCbD42t" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "filipesantosaraujo34@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:vedb91@gmail.com?subject=subject text"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tio-chico-marreta-900717247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>  
     <div style="display: inline_block"><br> 
