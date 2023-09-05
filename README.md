@@ -1,4 +1,4 @@
-<h2>Oiii!!!!! Meu nome é Pedro Augusto</h2>
+<h2>Oi! Meu nome é Pedro Augusto</h2>
 
  Desenvolvedor Web Júnior</br>
  Atualmente trabalho como Analista QA</br>
@@ -22,6 +22,5 @@
        <img align="center" alt="VedBOne" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
        <img align="center" alt="VedBOne" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
        <img align="center" alt="VedBOne" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">   
-       <img align="center" alt="VedBOne" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />         
      </div>
      
