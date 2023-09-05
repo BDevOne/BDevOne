@@ -1,6 +1,6 @@
 <h2>Oi! Meu nome é Pedro Augusto</h2>
 
- Desenvolvedor Web Júnior</br>
+ Desenvolvedor Web Júnior\n
  Atualmente trabalho como Analista QA</br>
  Estou cursando Analise e Desenvolvimento de Sistemas</br>
  Estudando C#, HTML, CSS E JavaScript</br>
