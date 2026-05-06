@@ -1,7 +1,7 @@
 <h2>Oi! Meu nome é Pedro Augusto</h2>
 
  Desenvolvedor .NET</br>
- Atualmente atuo como Backend Developer.r</br>
+ Atualmente atuo como Backend Developer.</br>
  Formado em Análise e Desenvolvimento de Sistemas.</br>
  Experiência com C#/.NET, Entity Framework, Git, API, HTML, CSS e JavaScript.</br>
  Em constante evolução e ampliação de conhecimentos na área de T.I.</br>
