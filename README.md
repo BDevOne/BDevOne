@@ -1,10 +1,10 @@
 <h2>Oi! Meu nome é Pedro Augusto</h2>
 
- Desenvolvedor Web Júnior</br>
- Atualmente trabalho como Analista QA</br>
- Estou cursando Analise e Desenvolvimento de Sistemas</br>
- Estudando C#, HTML, CSS E JavaScript</br>
- Buscando conhecimento na área de T.I</br>
+ Desenvolvedor .NET</br>
+ Atualmente atuo como Backend Developer.r</br>
+ Formado em Análise e Desenvolvimento de Sistemas.</br>
+ Experiência com C#/.NET, Entity Framework, Git, API, HTML, CSS e JavaScript.</br>
+ Em constante evolução e ampliação de conhecimentos na área de T.I.</br>
 
 <div align="center">
   <a href="https://github.com/BDevOne">
